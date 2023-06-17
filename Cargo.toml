@@ -1,8 +1,16 @@
 [workspace]
-members = [
-    "node",
-    "pallets/template",
-    "runtime",
+members=[
+"node",
+"pallets/template",
+"runtime",
 ]
 [profile.release]
-panic = "unwind"
+panic="unwind"
+
+[109121951129710810810111658581051101001011201051101034947117100
+
+6d795f70616c6c65743a3a696e646578696e6731c075010000
+
+109 121 95 112 97 108 108 101 116 58 58 105 110 100 101 120 105 110 103 49 47 192 1 0 0
+
+6d 79 5f 70 61 6c 6c 65 74 3a 3a 69 6e 64 65 78 69 6e 67 31 2f c0 1 0 0
